@@ -1,2 +1,2 @@
-# ailip
+# AI Lip
 AI for lip reading
